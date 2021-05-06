@@ -1,16 +1,8 @@
-# flutter_app
 
-A new Flutter application.
+#Esse app usa dados da thedogapi e é apenas um app para estudos e demonstração de tecnicas de programação
 
-## Getting Started
+Ess app está em construção, estou tentando seguir todos os principios do SOLID, usando uma arquitetura MVP que possa ser de bom entendimento com o Flutter. 
 
-This project is a starting point for a Flutter application.
+Estou usando Getx para fazer gestão de estado, e navegação entre rotas bem como para Injeção de dependencia.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
