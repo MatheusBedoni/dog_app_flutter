@@ -1,5 +1,7 @@
 
-# Esse app usa dados da thedogapi e é apenas um app para estudos e demonstração de tecnicas de programação
+#  TheDogApi APP
+
+Esse app usa dados da thedogapi e é apenas um app para estudos e demonstração de tecnicas de programação
 
 Ess app está em construção, estou tentando seguir todos os principios do SOLID, usando uma arquitetura MVP que possa ser de bom entendimento com o Flutter. 
 
